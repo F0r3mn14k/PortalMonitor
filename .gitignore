@@ -1,0 +1,13 @@
+# .NET build outputs and generated release files
+bin/
+obj/
+publish/
+*.exe
+*.dll
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+
+# Local runtime data and IDE files
+LOG/
+.vs/
